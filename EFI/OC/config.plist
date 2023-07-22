@@ -658,23 +658,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02XXXXXXXXXXXXXX</string>
+			<string>C02739306CDJG36UE</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>7JbCcl9U</data>
+			<data>F02475D206B8</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac18,1</string>
+			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02XXXXXH7JY</string>
+			<string>C02VGSZGHX87</string>
 			<key>SystemUUID</key>
-			<string>49E22E7E-A304-4EC7-A937-E8D96826415F</string>
+			<string>73699494-4935-4B5B-BA28-BA51175EB70C</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
